@@ -1,0 +1,133 @@
+.parrafo1 p{
+    border-style: dotted;
+    border-color: red;
+}
+
+.cabecera2{
+    background: rgb(195, 235, 236);
+    width: 50%;
+}
+
+.parrafo3 p{
+    background: rgb(195, 235, 236);
+    padding: 40px;
+}
+
+.cabecera4{
+    background: rgb(195, 235, 236);
+    height: 150px;
+}
+
+.parrafo5 p{
+    background: rgb(195, 235, 236);
+    width: 30%;
+}
+
+.parrafo6 p{
+    background: rgb(195, 235, 236);
+    width: 30%;
+    padding: 40px;
+}
+
+.parrafo7 p{
+    background: rgb(195, 235, 236);
+    width: 30%;
+    padding: 40px;
+    border:30px solid blue;
+}
+
+.parrafo8 p{
+    background: rgb(195, 235, 236);
+    width: 30%;
+    padding: 40px;
+    border:30px solid blue;
+    margin-left: 70px;
+}
+
+.cabecera9 h1{
+    color: blue;
+}
+
+.parrafo9 p{
+    color: red;
+}
+
+.cabecera10 h1{
+    text-align: center;
+}
+
+.parrafo11 p{
+    text-indent: 3em;
+}
+
+.cabecera12 h1{
+    text-transform: uppercase;
+}
+
+.parrafo12 {
+    text-transform: capitalize;
+}
+
+.cabecera13 h1, .parrafo13 p{
+    font-family: Arial;
+}
+
+.parrafo14 p{
+    font-style: italic;
+}
+
+.cabecera15 h1{
+    font-size: 3em;
+}
+
+.parrafo16 p{
+    font-weight: bold;
+}
+
+.parrafo17 p{
+    font-size: 2em;
+}
+
+.cabecera18 h1{
+    text-align: center;
+    width: 30%;
+}
+
+.cabecera18 .caja1 {
+    background: white;
+    width: 300px;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+    font-weight: bold;
+    font-size: 2em;
+    padding: 10px;
+    border: 40px solid rgb(155, 218, 247);
+}
+
+.cabecera19 h1{
+    text-align: center;
+    width: 500px;
+}
+
+.caja_contendor{
+    box-sizing: border-box;
+    border: 40px solid rgb(155, 218, 247);
+    width: 500px;
+    height: 300px;
+}
+
+.caja_base {
+    background: rgb(155, 218, 247);
+    width: 60%;
+    text-align: center;
+    margin: 90px auto;
+}
+
+.caja_base .texto1{
+    background: rgb(155, 218, 247);
+    margin:0;
+    color:green;
+    font-size: 2em;
+    font-weight: bold;
+}
